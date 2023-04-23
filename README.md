@@ -1,5 +1,6 @@
-[![MasterHead
-(https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMjIwNzRlYzA5NDU2MGFhYWVmNGY4MDFmMjkxMDlkZDRiNjAyZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Hrm0LJNRkPHDkLIHz9/giphy.gif)](https://rishavchanda.io)
+[![MasterHead](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWYwMjIwNzRlYzA5NDU2MGFhYWVmNGY4MDFmMjkxMDlkZDRiNjAyZiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/Hrm0LJNRkPHDkLIHz9/giphy.gif
+)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Afaf Ahmed</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://hivepress.io/wp-content/uploads/2021/01/How-to-create-a-job-board-1.jpg">
